@@ -1,0 +1,42 @@
+html, body{
+	height: 100%;
+	background: #3498db;
+}
+.body-container{
+	background: #3498db;
+	height: 100%;
+}
+.info-row{
+	margin-top: 8%;
+}
+.img-container{
+	width: 50%;
+	margin: 0 auto;	
+}
+.img-container img{
+	width:100%;
+	height: auto;
+}
+.phone-img{
+
+}
+.app-info{
+
+}
+.app-title{
+	margin-top: 10%;
+}
+.app-store-button-container{
+	width: 50%;
+	margin: 30px auto;
+}
+.app-store-button-container img{
+	width: 100%;
+	height: auto;
+}
+.app-desc{
+	background: #fff;
+	padding: 20px;
+	border-radius: 15px;		
+	box-shadow: -5px 5px 0px 0px #ccc;
+}
